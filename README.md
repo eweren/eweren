@@ -3,8 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eweren&theme=onedark&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequests,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m working as Lead Developer at [THE ARC GmbH](https://thearc.de)
-
 - 🌱 I’m currently learning how to create games with **Unreal Engine**
 
 <h3 align="left">Languages and Tools:</h3>
