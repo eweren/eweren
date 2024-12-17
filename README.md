@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nic</h1>
 <h3 align="center">A passionate fullstack engineer from Germany</h3>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N417KI4W)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=eweren&theme=onedark&title=MultiLanguage,Commits,Stars,Followers,Issues,PullRequests,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨‍💻 I am open for work for SvelteKit (Landingpages, WebApps) and Flutter (mobile Apps) projects (with or without backend)
